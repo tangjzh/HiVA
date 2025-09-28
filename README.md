@@ -51,7 +51,3 @@ If you find this work useful in your research, please consider citing:
 ## License
 
 MIT
-
-## Contact
-
-For any questions, please open an issue or contact [jit027@ucsd.edu].
