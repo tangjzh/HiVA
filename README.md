@@ -40,10 +40,10 @@ python scripts/test_math.py
 If you find this work useful in your research, please consider citing:
 
 ```bibtex
-@article{tang2025hiva,
+@article{hiva,
   title={HiVA: Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution},
-  author={Tang, Jinzhou and Zhang, Jusheng and Lv, Qinhan and Liu, Sidi and Yang, Jing and Tang, Chengpei and Wang, Keze},
-  journal={arXiv preprint arXiv:2509.00189},
+  author={Anynomous},
+  journal={arXiv preprint},
   year={2025}
 }
 ```
