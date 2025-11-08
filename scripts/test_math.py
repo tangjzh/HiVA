@@ -7,7 +7,7 @@ import json
 from functools import partial
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from hiva.core.textgrad import TextGrad
 from hiva.engines.openai_engine import OpenAIEngine

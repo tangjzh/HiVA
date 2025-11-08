@@ -13,8 +13,16 @@ Autonomous agents play a crucial role in advancing Artificial General Intelligen
 git clone https://github.com/tangjzh/HiVA.git
 cd HiVA
 
+# Create and activate a Conda environment (Python 3.10)
+conda create -n hiva python=3.10 -y
+conda activate hiva
+
 # Install dependencies
+pip install -U pip
 pip install -r requirements.txt
+# Not listed but required by scripts
+pip install datasets
+pip install sentence-transformers
 ```
 
 ## Repository Structure
