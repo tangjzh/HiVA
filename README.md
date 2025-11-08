@@ -20,9 +20,7 @@ conda activate hiva
 # Install dependencies
 pip install -U pip
 pip install -r requirements.txt
-# Not listed but required by scripts
-pip install datasets
-pip install sentence-transformers
+
 ```
 
 ## Repository Structure
@@ -48,10 +46,10 @@ python scripts/test_math.py
 If you find this work useful in your research, please consider citing:
 
 ```bibtex
-@article{hiva,
+@article{tang2025hiva,
   title={HiVA: Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution},
-  author={Anynomous},
-  journal={arXiv preprint},
+  author={Tang, Jinzhou and Zhang, Jusheng and Lv, Qinhan and Liu, Sidi and Yang, Jing and Tang, Chengpei and Wang, Keze},
+  journal={arXiv preprint arXiv:2509.00189},
   year={2025}
 }
 ```
